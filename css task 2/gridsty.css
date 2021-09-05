@@ -1,0 +1,13 @@
+.block_1 {
+    display: flex;
+    justify-content: center; /* justifying to center */
+    align-items: center;
+}
+.block_item {
+    
+    color: white;
+    /* setting width and height of the block to 70 X 70 */
+    height:70px;
+    width:70px;
+    margin: 7px;
+}
